@@ -54,7 +54,7 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
     }
 
     /**
-     * Retrieve customer reset password link expiration period in days
+     * Retrieve customer reset password link expiration period in hours
      *
      * @return int
      */
